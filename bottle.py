@@ -21,8 +21,8 @@ def airtime_topup(phone_number, airtime_amount):
 	import africastalking
 
 	#Define credentials here
-	username = "wycliffogembo87"
-	api_key = "6926a1e5aff7aa38004028d4f1664e70b113d4d1b39d62c189eb9ea9a25f1ca8"
+	username = "wyclif"
+	api_key = "6926a1e5a9ea9a25f1ca8"
 
 	#Authenticate with the service
 	africastalking.initialize(username, api_key)
